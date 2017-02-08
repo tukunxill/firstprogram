@@ -1,0 +1,3 @@
+C:\Users\refat\OneDrive\Documents\Unreal Projects\Obligtory\Source\Obligtory\Obligtory.Build.cs
+C:\Users\refat\OneDrive\Documents\Unreal Projects\Obligtory\Source\Obligtory.Target.cs
+C:\Users\refat\OneDrive\Documents\Unreal Projects\Obligtory\Source\ObligtoryEditor.Target.cs
